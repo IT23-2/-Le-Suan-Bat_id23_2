@@ -1,0 +1,9 @@
+{
+    "cloud_shape": [1, 2, 3],
+    "x_position": [160, 400, 600],
+    "y_position": [50, 60, 70],
+    "width": [150, 130, 140],
+    "height": [90, 80, 90],
+    "drop_count": [200, 150, 100],
+    "fall_speed": [3, 6, 9]
+}
